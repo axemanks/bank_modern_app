@@ -11,4 +11,4 @@ npm install
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-I love vs code github integration!
+github: https://github.com/axemanks/bank_modern_app

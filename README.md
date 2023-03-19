@@ -12,3 +12,5 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 github: https://github.com/axemanks/bank_modern_app
+
+stackblitz is unable to render the webcontainer for the preveiw.

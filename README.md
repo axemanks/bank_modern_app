@@ -11,4 +11,4 @@ npm install
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-update 3/19
+update 3/19 in vs code

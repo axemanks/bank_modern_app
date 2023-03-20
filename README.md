@@ -12,5 +12,3 @@ npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
 github: https://github.com/axemanks/bank_modern_app
-
-Stopped at the "stats" bar 1:07 in video
